@@ -4,13 +4,11 @@ __pycache__/
 *.pyd
 
 venv/
+.venv/
 .env
 
 *.log
 .DS_Store
 
-# DO NOT IGNORE RESULTS
-# results/  ← intentionally not ignored
-
-# DO NOT IGNORE MODELS
-# model.pkl ← keep tracked
+# PyCharm settings
+.idea/
